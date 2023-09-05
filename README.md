@@ -1,4 +1,6 @@
 # TubeMQ-Cli
 Cli tools for Apache Inlong TubeMQ Module.
 # Release
-Ref to [Cli-Work](https://github.com/liaosunny123/inlong/tree/tubemq-cli-work)
+Ref to [TubeMQ-Cli](https://github.com/liaosunny123/inlong/tree/tubemq-cli-work/inlong-tubemq/tubemq-cli)
+# Usgae
+Please check at this repo's wiki ~
